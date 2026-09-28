@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-exnaurl",
-  "commit": "ee63a8fb7e121407b40f1cdbeccd1bad30f0c575",
-  "score": 33,
+  "commit": "d6fb7bd7033cc6ef9304fe9b5ec95e749c4b9f7d",
+  "score": 34,
   "totalScore": 110,
   "exercises": [
     {
@@ -240,9 +240,9 @@
     {
       "name": "enums1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums2",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "exnaurl",
-  "runId": "36328777059",
+  "runId": "36383344649",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
