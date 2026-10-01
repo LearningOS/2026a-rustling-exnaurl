@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-exnaurl",
-  "commit": "07baca5a28b010211c15458e301bb4bfdd6bce15",
-  "score": 54,
+  "commit": "a20059a3403cd7dc56983be641d33b5ae04661d6",
+  "score": 55,
   "totalScore": 110,
   "exercises": [
     {
@@ -387,9 +387,9 @@
     {
       "name": "errors5",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors6",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "exnaurl",
-  "runId": "36534152443",
+  "runId": "36860495968",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
